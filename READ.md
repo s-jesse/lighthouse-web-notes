@@ -1,1 +1,4 @@
-# [Jesse Sandhu]'s Notes
+# [Jesse]'s Notes
+## Summary 
+
+This repository contains all of the notes taken by [Jesse](https://github.com/s-jesse) for the [Lighthouse Labs](https://www.lighthouselabs.ca) Web Development Bootcamp.
